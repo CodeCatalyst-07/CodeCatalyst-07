@@ -69,12 +69,13 @@ Brain fuel       Logic puzzles + aptitude challenges
 
 <div align="center">
 
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=CodeCatalyst-07&show_icons=true&include_all_commits=true&count_private=false&hide_border=true&bg_color=0D1117&title_color=FFD166&icon_color=06D6A0&text_color=E6EDF3" alt="GitHub stats" />
+  <img height="170" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=CodeCatalyst-07&theme=github_dark" alt="GitHub stats" />
   <img height="170" src="https://streak-stats.demolab.com?user=CodeCatalyst-07&hide_border=true&background=0D1117&ring=FF6B6B&fire=FFD166&currStreakLabel=06D6A0&sideLabels=E6EDF3&currStreakNum=E6EDF3&sideNums=E6EDF3&dates=8B949E" alt="GitHub streak" />
 
   <br />
 
-  <img height="185" src="https://github-readme-stats.vercel.app/api/top-langs/?username=CodeCatalyst-07&layout=compact&hide_border=true&bg_color=0D1117&title_color=FFD166&text_color=E6EDF3" alt="Top languages" />
+  <img height="170" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=CodeCatalyst-07&theme=github_dark" alt="Top languages by repository" />
+  <img height="170" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=CodeCatalyst-07&theme=github_dark" alt="Top languages by commit" />
 
 </div>
 
